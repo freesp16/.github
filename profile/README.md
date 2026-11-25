@@ -9,9 +9,10 @@ from a USB stick, leaves the unit's internal memory untouched, and the official 
 
 | Repository | What it is |
 | --- | --- |
-| **freesp16** *(coming soon)* | A free sampler and groovebox app for the SP-16, built with JUCE. Also runs on the Linux desktop. |
+| [**freesp16**](https://github.com/freesp16/freesp16) | A free sampler and groovebox app for the SP-16, built with JUCE. Also runs on the Linux desktop. [Download the latest release](https://github.com/freesp16/freesp16/releases/latest). |
 | [**bootmenu**](https://github.com/freesp16/bootmenu) | A boot menu for the USB stick: plug it in and choose what the unit runs, the official software or community software such as freesp16. |
 | [**freesp16.github.io**](https://github.com/freesp16/freesp16.github.io) | The project website: features, downloads, install guide and FAQ. |
+| [**juce-app-template**](https://github.com/freesp16/juce-app-template) | A JUCE app template for building your own SP-16 software, launched by the boot menu: pads, LEDs, audio, MIDI and OpenGL ES. |
 
 ## The goal
 
@@ -23,7 +24,8 @@ from a USB stick, leaves the unit's internal memory untouched, and the official 
 ## Get started
 
 - Website and install guide: <https://freesp16.github.io>
-- Boot menu download: [latest release](https://github.com/freesp16/bootmenu/releases/latest)
+- Downloads: [freesp16](https://github.com/freesp16/freesp16/releases/latest) and the
+  [boot menu](https://github.com/freesp16/bootmenu/releases/latest) (latest releases)
 - Community: [Discord](https://discord.gg/DedpwtE6EK)
 
 ---
